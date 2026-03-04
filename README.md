@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Manoel!
+# 👋 Olá, eu sou o Manel!
 
 🎓 Estudante de Tecnologia  
 💻 Desenvolvedor em formação  
@@ -23,17 +23,6 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
   <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-</div>
-
----
-
-## 📊 Estatísticas
-
-<div>
-  <a href="https://github.com/Manel-690">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manel-690&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manel-690&layout=compact&theme=radical"/>
-  </a>
 </div>
 
 ---
