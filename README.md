@@ -18,20 +18,31 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
 ## 🛠️ Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+
+<img align="center" alt="HTML" height="30" 
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align="center" alt="CSS" height="30" 
+src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<img align="center" alt="JavaScript" height="30" 
+src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img align="center" alt="Python" height="30" 
+src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img align="center" alt="Git" height="30" 
+src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Manel-690&theme=radical&hide_border=true&border_radius=10&locale=pt_BR" 
+    src="https://streak-stats.demolab.com?user=Manel-690&theme=tokyonight&hide_border=true&border_radius=10&locale=pt_BR" 
     alt="GitHub Streak"
   />
 </p>
@@ -41,14 +52,26 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=Manel-690&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-  />
 
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=Manel-690&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+/>
+
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manel-690&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+/>
+
+</p>
+
+---
+
+## 📈 Contribuições
+
+<p align="center">
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manel-690&layout=compact&langs_count=7&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manel-690&theme=github_dark" 
   />
 </p>
 
@@ -56,7 +79,7 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
 
 ## 💼 Projetos em Destaque
 
-🚧 Em breve novos projetos incríveis por aqui!  
+🚧 Em breve novos projetos incríveis por aqui!
 
 ---
 
@@ -72,4 +95,8 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
 
 ---
 
+<div align="center">
+
 ⭐ Obrigado por visitar meu perfil!
+
+</div>
