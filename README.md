@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Manel!
+# 👋 Olá, eu sou o Manoel!
 
 🎓 Estudante de Tecnologia  
 💻 Desenvolvedor em formação  
@@ -24,6 +24,27 @@ Meu objetivo é crescer como desenvolvedor e contribuir com projetos que façam 
   <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img align="center" alt="Git" height="30" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 </div>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=radical&hide_border=true&border_radius=10&locale=pt_BR" 
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=radical"/>
+</p>
 
 ---
 
