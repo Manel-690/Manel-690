@@ -47,25 +47,6 @@ src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoCo
   />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=Manel-690&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manel-690&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-/>
-
-</p>
-
----
 
 ## 📈 Contribuições
 
