@@ -66,7 +66,7 @@ src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoCo
 
 ## 📫 Contato
 
-📧 Email: **0001153073@senaimgaluno.com.br**
+📧 Email: **manoel.rcmarcos@gmail.com**
 
 ---
 
